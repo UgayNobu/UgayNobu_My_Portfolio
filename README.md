@@ -1,10 +1,10 @@
-![preview Long Haul](/preview.jpg)
+![preview Ugyen Norbu Portfolio](/preview.jpg)
 
-Long Haul is a minimal jekyll theme built with SASS and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+Ugyen Norbu is a software engineer and UI designer specializing in web development. This portfolio showcases his work, including various software engineering projects and UI/UX designs.
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+If you enjoy exploring Ugyen’s portfolio and want to share your thoughts or feedback, feel free to send a tweet and tag him [@UgayNobu](https://twitter.com/UgayNobu).
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+#### [View Demo](https://long-haul.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd29f13b-3754-46d7-9a39-48db2e174b99/deploy-status)](https://app.netlify.com/sites/long-haul/deploys)
 
@@ -22,24 +22,24 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 -   Stylish Drop Cap on posts
 -   A Better Type Scale for all devices
 -   Comments powered by Disqus
--   [Dark Mode support](https://github.com/brianmaierjr/long-haul/blob/master/preview-dark.png) via [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+-   [Dark Mode support](https://github.com/UgayNobu/long-haul/blob/master/preview-dark.png) via [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 
 ## Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+2. Fork the [Ugyen Norbu Portfolio repo](http://github.com/UgayNobu/long-haul)
 3. Clone it
 4. [Install Bundler](http://bundler.io/)
 5. Run `bundle install`
-6. Run Jekyll Serve and Watch command`bundle exec jekyll serve -w`
+6. Run Jekyll Serve and Watch command `bundle exec jekyll serve -w`
 
 ## Site Settings
 
 The main settings can be found inside the `_config.yml` file:
 
--   **title:** title of your site
--   **description:** description of your site
--   **url:** your url
+-   **title:** Ugyen Norbu’s Portfolio
+-   **description:** Portfolio of Ugyen Norbu, a software engineer and UI designer specializing in web development.
+-   **url:** https://long-haul.netlify.app
 -   **paginate:** the amount of posts displayed on homepage
 -   **navigation:** these are the links in the main site navigation
 -   **social** diverse social media usernames (optional)
@@ -47,15 +47,15 @@ The main settings can be found inside the `_config.yml` file:
 
 ### Header Option
 
-If you'd like your header to be larger then you can use the option below in you `config.yml` to make it take up half of the vertical space on screens 800px wide and up. _Preview image below._
+If you'd like your header to be larger, you can use the option below in your `config.yml` to make it take up half of the vertical space on screens 800px wide and up. _Preview image below._
 
 -   **header:** large
 
-![preview Long Haul](/preview-large.png)
+![preview Large Header](https://long-haul.netlify.app/preview-large.png)
 
 ## To use on GitHub Pages
 
-To use latest Jekyll and Jekyll Sass Converter on GitHub Pages, <a href="https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/">you can now deploy to a GitHub Pages site using GitHub Actions.</a>
+To use the latest Jekyll and Jekyll Sass Converter on GitHub Pages, <a href="https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/">you can now deploy to a GitHub Pages site using GitHub Actions.</a>
 
 ## License
 

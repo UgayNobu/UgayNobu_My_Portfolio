@@ -1,7 +1,7 @@
 title: Ugyen Norbu 
 description: "Portfolio of Ugyen Norbu, a software engineer and UI designer specializing in web development."
 
-url: https://long-haul.netlify.app
+url: 
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
