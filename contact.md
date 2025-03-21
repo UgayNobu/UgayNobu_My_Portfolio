@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Ugyen Norbu
+title: Contact Me 
 ---
 
 <div id="contact">
